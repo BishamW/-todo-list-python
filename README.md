@@ -16,5 +16,5 @@ A beginner-friendly, command-line To-Do List application built with Python. It l
 - Python 3.x
 - No external libraries required.
 
-## 🚀 How to Run
+
 
